@@ -2,6 +2,8 @@
 
 DocDiagno is a Flask web application for exploring health information and estimating heart disease or diabetes risk with trained machine-learning models. It includes user registration and login, three prediction workflows, health tips, and a contact form.
 
+**GitHub Repository:** [Heart Disease Prediction Risk Analytics Platform](https://github.com/saad112411/Heart-Disease-Prediction-Risk-Analytics-Platform-)
+
 > This project is for educational and research use only. Its predictions are not a medical diagnosis and should not replace advice from a qualified healthcare professional.
 
 ## Features
